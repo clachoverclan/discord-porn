@@ -1,32 +1,26 @@
 {
-  "name": "discord-porn",
+  "name": "random-anime",
   "version": "1.0.6",
-  "description": "Nsfw DB with more than 5 000 images and videos (gif, jpg, png, mp4) of nsfw content with 65+ categories",
-  "main": "discord-porn.js",
-  "directories": {
-    "test": "test"
-  },
+  "description": "Generate random anime images with many features.",
+  "main": "index.js",
   "scripts": {
-    "test": "node ./test/test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clachoverclan/discord-porn.git"
+    "url": "git+ssh://git@github.com/amistaa/random-anime.git"
   },
   "keywords": [
-    "hentai",
-    "nsfw",
-    "pornhub",
-    "porn",
-    "cdn",
+    "anime",
+    "generator",
+    "images",
     "discord",
-    "hub",
-    "random",
-    "free",
-    "image",
-    "video",
-    "gif"
+    "bot"
   ],
-  "author": "c1ach0",
-  "license": "MIT"
+  "author": "Amista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amistaa/random-anime/issues"
+  },
+  "homepage": "https://github.com/amistaa/random-anime#readme"
 }
